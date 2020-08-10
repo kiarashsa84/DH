@@ -1,3 +1,3 @@
 # DH
-an algorithm for diffi hellman
+an algorithm for diffie hellman
 even for very big numbers 
